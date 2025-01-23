@@ -34,7 +34,3 @@ Pulses.cloud is a WebSocket as a Service platform that simplifies real-time comm
 For support or inquiries:
 - Email: support@pulses.cloud
 - Discord: [Join our community](https://discord.com/invite/AUq2XkRrE7)
-
-## 🤝 Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
