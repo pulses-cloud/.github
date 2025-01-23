@@ -19,7 +19,6 @@ Pulses.cloud is a WebSocket as a Service platform that simplifies real-time comm
 
 ## 📊 Developer Experience
 
-- Simple API integration
 - Comprehensive documentation
 - Real-time debugging tools
 - Performance monitoring dashboard
